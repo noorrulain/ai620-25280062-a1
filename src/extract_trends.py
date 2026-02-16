@@ -1,3 +1,6 @@
+# Name: Noor Ul Ain Anwar
+# Student ID: 25280062
+
 import pandas as pd
 from pytrends.request import TrendReq
 import os
