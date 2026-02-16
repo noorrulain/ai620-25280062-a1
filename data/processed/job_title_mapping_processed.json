@@ -1,0 +1,32 @@
+[
+    {
+        "job_title":"Data Scientist",
+        "standardized_title":"Data Scientist",
+        "role_category":"Analytics"
+    },
+    {
+        "job_title":"Machine Learning Engineer",
+        "standardized_title":"Machine Learning Engineer",
+        "role_category":"Engineering"
+    },
+    {
+        "job_title":"AI Researcher",
+        "standardized_title":"AI Researcher",
+        "role_category":"Analytics"
+    },
+    {
+        "job_title":"Data Analyst",
+        "standardized_title":"Data Analyst",
+        "role_category":"Analytics"
+    },
+    {
+        "job_title":"Applied Scientist",
+        "standardized_title":"Applied Scientist",
+        "role_category":"Analytics"
+    },
+    {
+        "job_title":"MLOps Engineer",
+        "standardized_title":"MLOps Engineer",
+        "role_category":"Engineering"
+    }
+]

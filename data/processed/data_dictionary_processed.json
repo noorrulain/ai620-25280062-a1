@@ -1,0 +1,67 @@
+[
+    {
+        "file":"ai_jobs.csv",
+        "column":"job_id",
+        "description":"Unique job identifier"
+    },
+    {
+        "file":"ai_jobs.csv",
+        "column":"job_title",
+        "description":"Original job title"
+    },
+    {
+        "file":"ai_jobs.csv",
+        "column":"company_type",
+        "description":"Startup, MNC, or Research Lab"
+    },
+    {
+        "file":"ai_jobs.csv",
+        "column":"industry",
+        "description":"Industry sector"
+    },
+    {
+        "file":"ai_jobs.csv",
+        "column":"country",
+        "description":"Country of job posting"
+    },
+    {
+        "file":"ai_jobs.csv",
+        "column":"remote_type",
+        "description":"Remote \/ Hybrid \/ Onsite"
+    },
+    {
+        "file":"ai_jobs.csv",
+        "column":"experience_level",
+        "description":"Entry, Mid, or Senior"
+    },
+    {
+        "file":"ai_jobs.csv",
+        "column":"salary_min_usd",
+        "description":"Minimum annual salary in USD"
+    },
+    {
+        "file":"ai_jobs.csv",
+        "column":"salary_max_usd",
+        "description":"Maximum annual salary in USD"
+    },
+    {
+        "file":"ai_jobs.csv",
+        "column":"posted_year",
+        "description":"Year job was posted"
+    },
+    {
+        "file":"skills_demand.csv",
+        "column":"skill",
+        "description":"Required technical skill"
+    },
+    {
+        "file":"skills_demand.csv",
+        "column":"skill_category",
+        "description":"Programming, ML, or Cloud"
+    },
+    {
+        "file":"country_ai_trends.csv",
+        "column":"remote_percentage",
+        "description":"Percent of remote AI jobs"
+    }
+]

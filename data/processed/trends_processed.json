@@ -1,0 +1,1836 @@
+[
+    {
+        "date":"2021-02-07",
+        "AI Jobs":1,
+        "Machine Learning":22,
+        "Data Science":20,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-02-14",
+        "AI Jobs":1,
+        "Machine Learning":22,
+        "Data Science":20,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-02-21",
+        "AI Jobs":1,
+        "Machine Learning":23,
+        "Data Science":21,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-02-28",
+        "AI Jobs":1,
+        "Machine Learning":24,
+        "Data Science":20,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-03-07",
+        "AI Jobs":1,
+        "Machine Learning":23,
+        "Data Science":20,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-03-14",
+        "AI Jobs":1,
+        "Machine Learning":23,
+        "Data Science":20,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-03-21",
+        "AI Jobs":1,
+        "Machine Learning":23,
+        "Data Science":20,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-03-28",
+        "AI Jobs":1,
+        "Machine Learning":22,
+        "Data Science":20,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-04-04",
+        "AI Jobs":1,
+        "Machine Learning":23,
+        "Data Science":20,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-04-11",
+        "AI Jobs":1,
+        "Machine Learning":24,
+        "Data Science":19,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-04-18",
+        "AI Jobs":1,
+        "Machine Learning":24,
+        "Data Science":20,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-04-25",
+        "AI Jobs":1,
+        "Machine Learning":23,
+        "Data Science":20,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-05-02",
+        "AI Jobs":1,
+        "Machine Learning":23,
+        "Data Science":20,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-05-09",
+        "AI Jobs":1,
+        "Machine Learning":23,
+        "Data Science":21,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-05-16",
+        "AI Jobs":1,
+        "Machine Learning":22,
+        "Data Science":21,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-05-23",
+        "AI Jobs":1,
+        "Machine Learning":24,
+        "Data Science":21,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-05-30",
+        "AI Jobs":1,
+        "Machine Learning":23,
+        "Data Science":20,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-06-06",
+        "AI Jobs":1,
+        "Machine Learning":24,
+        "Data Science":22,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-06-13",
+        "AI Jobs":1,
+        "Machine Learning":24,
+        "Data Science":21,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-06-20",
+        "AI Jobs":1,
+        "Machine Learning":22,
+        "Data Science":20,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-06-27",
+        "AI Jobs":1,
+        "Machine Learning":23,
+        "Data Science":20,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-07-04",
+        "AI Jobs":1,
+        "Machine Learning":22,
+        "Data Science":19,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-07-11",
+        "AI Jobs":1,
+        "Machine Learning":24,
+        "Data Science":20,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-07-18",
+        "AI Jobs":1,
+        "Machine Learning":23,
+        "Data Science":22,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-07-25",
+        "AI Jobs":1,
+        "Machine Learning":22,
+        "Data Science":21,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-08-01",
+        "AI Jobs":1,
+        "Machine Learning":21,
+        "Data Science":20,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-08-08",
+        "AI Jobs":1,
+        "Machine Learning":21,
+        "Data Science":20,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-08-15",
+        "AI Jobs":1,
+        "Machine Learning":22,
+        "Data Science":21,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-08-22",
+        "AI Jobs":1,
+        "Machine Learning":22,
+        "Data Science":23,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-08-29",
+        "AI Jobs":1,
+        "Machine Learning":22,
+        "Data Science":22,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-09-05",
+        "AI Jobs":1,
+        "Machine Learning":22,
+        "Data Science":21,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-09-12",
+        "AI Jobs":1,
+        "Machine Learning":24,
+        "Data Science":24,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-09-19",
+        "AI Jobs":1,
+        "Machine Learning":24,
+        "Data Science":23,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-09-26",
+        "AI Jobs":1,
+        "Machine Learning":24,
+        "Data Science":23,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-10-03",
+        "AI Jobs":1,
+        "Machine Learning":24,
+        "Data Science":22,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-10-10",
+        "AI Jobs":1,
+        "Machine Learning":22,
+        "Data Science":20,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-10-17",
+        "AI Jobs":1,
+        "Machine Learning":24,
+        "Data Science":23,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-10-24",
+        "AI Jobs":1,
+        "Machine Learning":25,
+        "Data Science":22,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-10-31",
+        "AI Jobs":1,
+        "Machine Learning":22,
+        "Data Science":21,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-11-07",
+        "AI Jobs":1,
+        "Machine Learning":25,
+        "Data Science":22,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-11-14",
+        "AI Jobs":1,
+        "Machine Learning":27,
+        "Data Science":23,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-11-21",
+        "AI Jobs":1,
+        "Machine Learning":25,
+        "Data Science":22,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-11-28",
+        "AI Jobs":1,
+        "Machine Learning":27,
+        "Data Science":23,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-12-05",
+        "AI Jobs":1,
+        "Machine Learning":25,
+        "Data Science":22,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-12-12",
+        "AI Jobs":1,
+        "Machine Learning":25,
+        "Data Science":23,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-12-19",
+        "AI Jobs":0,
+        "Machine Learning":22,
+        "Data Science":21,
+        "Generative AI":0
+    },
+    {
+        "date":"2021-12-26",
+        "AI Jobs":1,
+        "Machine Learning":19,
+        "Data Science":19,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-01-02",
+        "AI Jobs":1,
+        "Machine Learning":28,
+        "Data Science":27,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-01-09",
+        "AI Jobs":1,
+        "Machine Learning":30,
+        "Data Science":29,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-01-16",
+        "AI Jobs":1,
+        "Machine Learning":28,
+        "Data Science":28,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-01-23",
+        "AI Jobs":1,
+        "Machine Learning":33,
+        "Data Science":30,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-01-30",
+        "AI Jobs":1,
+        "Machine Learning":31,
+        "Data Science":29,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-02-06",
+        "AI Jobs":1,
+        "Machine Learning":33,
+        "Data Science":29,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-02-13",
+        "AI Jobs":1,
+        "Machine Learning":37,
+        "Data Science":32,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-02-20",
+        "AI Jobs":1,
+        "Machine Learning":37,
+        "Data Science":31,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-02-27",
+        "AI Jobs":1,
+        "Machine Learning":34,
+        "Data Science":30,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-03-06",
+        "AI Jobs":1,
+        "Machine Learning":36,
+        "Data Science":31,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-03-13",
+        "AI Jobs":1,
+        "Machine Learning":36,
+        "Data Science":32,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-03-20",
+        "AI Jobs":1,
+        "Machine Learning":39,
+        "Data Science":32,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-03-27",
+        "AI Jobs":1,
+        "Machine Learning":38,
+        "Data Science":33,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-04-03",
+        "AI Jobs":1,
+        "Machine Learning":38,
+        "Data Science":33,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-04-10",
+        "AI Jobs":1,
+        "Machine Learning":35,
+        "Data Science":30,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-04-17",
+        "AI Jobs":1,
+        "Machine Learning":39,
+        "Data Science":32,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-04-24",
+        "AI Jobs":1,
+        "Machine Learning":38,
+        "Data Science":33,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-05-01",
+        "AI Jobs":1,
+        "Machine Learning":38,
+        "Data Science":30,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-05-08",
+        "AI Jobs":1,
+        "Machine Learning":41,
+        "Data Science":33,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-05-15",
+        "AI Jobs":1,
+        "Machine Learning":36,
+        "Data Science":31,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-05-22",
+        "AI Jobs":1,
+        "Machine Learning":35,
+        "Data Science":31,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-05-29",
+        "AI Jobs":1,
+        "Machine Learning":32,
+        "Data Science":29,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-06-05",
+        "AI Jobs":1,
+        "Machine Learning":35,
+        "Data Science":30,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-06-12",
+        "AI Jobs":1,
+        "Machine Learning":37,
+        "Data Science":32,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-06-19",
+        "AI Jobs":1,
+        "Machine Learning":37,
+        "Data Science":35,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-06-26",
+        "AI Jobs":1,
+        "Machine Learning":33,
+        "Data Science":31,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-07-03",
+        "AI Jobs":1,
+        "Machine Learning":34,
+        "Data Science":31,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-07-10",
+        "AI Jobs":1,
+        "Machine Learning":33,
+        "Data Science":31,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-07-17",
+        "AI Jobs":1,
+        "Machine Learning":32,
+        "Data Science":32,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-07-24",
+        "AI Jobs":1,
+        "Machine Learning":33,
+        "Data Science":31,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-07-31",
+        "AI Jobs":1,
+        "Machine Learning":32,
+        "Data Science":32,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-08-07",
+        "AI Jobs":1,
+        "Machine Learning":31,
+        "Data Science":32,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-08-14",
+        "AI Jobs":1,
+        "Machine Learning":32,
+        "Data Science":33,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-08-21",
+        "AI Jobs":1,
+        "Machine Learning":33,
+        "Data Science":34,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-08-28",
+        "AI Jobs":1,
+        "Machine Learning":33,
+        "Data Science":33,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-09-04",
+        "AI Jobs":1,
+        "Machine Learning":32,
+        "Data Science":33,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-09-11",
+        "AI Jobs":1,
+        "Machine Learning":36,
+        "Data Science":37,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-09-18",
+        "AI Jobs":1,
+        "Machine Learning":37,
+        "Data Science":33,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-09-25",
+        "AI Jobs":1,
+        "Machine Learning":37,
+        "Data Science":33,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-10-02",
+        "AI Jobs":1,
+        "Machine Learning":33,
+        "Data Science":30,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-10-09",
+        "AI Jobs":1,
+        "Machine Learning":38,
+        "Data Science":32,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-10-16",
+        "AI Jobs":1,
+        "Machine Learning":36,
+        "Data Science":31,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-10-23",
+        "AI Jobs":1,
+        "Machine Learning":34,
+        "Data Science":30,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-10-30",
+        "AI Jobs":1,
+        "Machine Learning":37,
+        "Data Science":31,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-11-06",
+        "AI Jobs":1,
+        "Machine Learning":38,
+        "Data Science":33,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-11-13",
+        "AI Jobs":1,
+        "Machine Learning":41,
+        "Data Science":32,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-11-20",
+        "AI Jobs":1,
+        "Machine Learning":36,
+        "Data Science":28,
+        "Generative AI":0
+    },
+    {
+        "date":"2022-11-27",
+        "AI Jobs":1,
+        "Machine Learning":37,
+        "Data Science":29,
+        "Generative AI":1
+    },
+    {
+        "date":"2022-12-04",
+        "AI Jobs":2,
+        "Machine Learning":39,
+        "Data Science":29,
+        "Generative AI":1
+    },
+    {
+        "date":"2022-12-11",
+        "AI Jobs":2,
+        "Machine Learning":37,
+        "Data Science":29,
+        "Generative AI":1
+    },
+    {
+        "date":"2022-12-18",
+        "AI Jobs":1,
+        "Machine Learning":32,
+        "Data Science":27,
+        "Generative AI":1
+    },
+    {
+        "date":"2022-12-25",
+        "AI Jobs":1,
+        "Machine Learning":29,
+        "Data Science":25,
+        "Generative AI":0
+    },
+    {
+        "date":"2023-01-01",
+        "AI Jobs":2,
+        "Machine Learning":33,
+        "Data Science":30,
+        "Generative AI":1
+    },
+    {
+        "date":"2023-01-08",
+        "AI Jobs":2,
+        "Machine Learning":36,
+        "Data Science":33,
+        "Generative AI":1
+    },
+    {
+        "date":"2023-01-15",
+        "AI Jobs":2,
+        "Machine Learning":37,
+        "Data Science":32,
+        "Generative AI":1
+    },
+    {
+        "date":"2023-01-22",
+        "AI Jobs":3,
+        "Machine Learning":38,
+        "Data Science":32,
+        "Generative AI":2
+    },
+    {
+        "date":"2023-01-29",
+        "AI Jobs":3,
+        "Machine Learning":37,
+        "Data Science":33,
+        "Generative AI":2
+    },
+    {
+        "date":"2023-02-05",
+        "AI Jobs":3,
+        "Machine Learning":38,
+        "Data Science":31,
+        "Generative AI":2
+    },
+    {
+        "date":"2023-02-12",
+        "AI Jobs":3,
+        "Machine Learning":36,
+        "Data Science":31,
+        "Generative AI":2
+    },
+    {
+        "date":"2023-02-19",
+        "AI Jobs":3,
+        "Machine Learning":38,
+        "Data Science":32,
+        "Generative AI":2
+    },
+    {
+        "date":"2023-02-26",
+        "AI Jobs":3,
+        "Machine Learning":38,
+        "Data Science":30,
+        "Generative AI":3
+    },
+    {
+        "date":"2023-03-05",
+        "AI Jobs":3,
+        "Machine Learning":34,
+        "Data Science":30,
+        "Generative AI":3
+    },
+    {
+        "date":"2023-03-12",
+        "AI Jobs":3,
+        "Machine Learning":36,
+        "Data Science":31,
+        "Generative AI":3
+    },
+    {
+        "date":"2023-03-19",
+        "AI Jobs":4,
+        "Machine Learning":37,
+        "Data Science":31,
+        "Generative AI":4
+    },
+    {
+        "date":"2023-03-26",
+        "AI Jobs":5,
+        "Machine Learning":38,
+        "Data Science":35,
+        "Generative AI":4
+    },
+    {
+        "date":"2023-04-02",
+        "AI Jobs":4,
+        "Machine Learning":35,
+        "Data Science":30,
+        "Generative AI":4
+    },
+    {
+        "date":"2023-04-09",
+        "AI Jobs":4,
+        "Machine Learning":37,
+        "Data Science":30,
+        "Generative AI":4
+    },
+    {
+        "date":"2023-04-16",
+        "AI Jobs":4,
+        "Machine Learning":34,
+        "Data Science":30,
+        "Generative AI":5
+    },
+    {
+        "date":"2023-04-23",
+        "AI Jobs":4,
+        "Machine Learning":36,
+        "Data Science":31,
+        "Generative AI":5
+    },
+    {
+        "date":"2023-04-30",
+        "AI Jobs":6,
+        "Machine Learning":38,
+        "Data Science":32,
+        "Generative AI":5
+    },
+    {
+        "date":"2023-05-07",
+        "AI Jobs":5,
+        "Machine Learning":36,
+        "Data Science":33,
+        "Generative AI":6
+    },
+    {
+        "date":"2023-05-14",
+        "AI Jobs":5,
+        "Machine Learning":36,
+        "Data Science":31,
+        "Generative AI":6
+    },
+    {
+        "date":"2023-05-21",
+        "AI Jobs":5,
+        "Machine Learning":38,
+        "Data Science":33,
+        "Generative AI":9
+    },
+    {
+        "date":"2023-05-28",
+        "AI Jobs":5,
+        "Machine Learning":35,
+        "Data Science":32,
+        "Generative AI":11
+    },
+    {
+        "date":"2023-06-04",
+        "AI Jobs":5,
+        "Machine Learning":34,
+        "Data Science":33,
+        "Generative AI":13
+    },
+    {
+        "date":"2023-06-11",
+        "AI Jobs":5,
+        "Machine Learning":35,
+        "Data Science":34,
+        "Generative AI":13
+    },
+    {
+        "date":"2023-06-18",
+        "AI Jobs":5,
+        "Machine Learning":35,
+        "Data Science":34,
+        "Generative AI":11
+    },
+    {
+        "date":"2023-06-25",
+        "AI Jobs":4,
+        "Machine Learning":34,
+        "Data Science":32,
+        "Generative AI":11
+    },
+    {
+        "date":"2023-07-02",
+        "AI Jobs":4,
+        "Machine Learning":34,
+        "Data Science":32,
+        "Generative AI":10
+    },
+    {
+        "date":"2023-07-09",
+        "AI Jobs":5,
+        "Machine Learning":37,
+        "Data Science":34,
+        "Generative AI":11
+    },
+    {
+        "date":"2023-07-16",
+        "AI Jobs":6,
+        "Machine Learning":35,
+        "Data Science":33,
+        "Generative AI":11
+    },
+    {
+        "date":"2023-07-23",
+        "AI Jobs":5,
+        "Machine Learning":34,
+        "Data Science":35,
+        "Generative AI":11
+    },
+    {
+        "date":"2023-07-30",
+        "AI Jobs":5,
+        "Machine Learning":34,
+        "Data Science":31,
+        "Generative AI":11
+    },
+    {
+        "date":"2023-08-06",
+        "AI Jobs":4,
+        "Machine Learning":34,
+        "Data Science":32,
+        "Generative AI":11
+    },
+    {
+        "date":"2023-08-13",
+        "AI Jobs":5,
+        "Machine Learning":32,
+        "Data Science":33,
+        "Generative AI":11
+    },
+    {
+        "date":"2023-08-20",
+        "AI Jobs":4,
+        "Machine Learning":35,
+        "Data Science":36,
+        "Generative AI":11
+    },
+    {
+        "date":"2023-08-27",
+        "AI Jobs":4,
+        "Machine Learning":34,
+        "Data Science":33,
+        "Generative AI":11
+    },
+    {
+        "date":"2023-09-03",
+        "AI Jobs":4,
+        "Machine Learning":35,
+        "Data Science":33,
+        "Generative AI":11
+    },
+    {
+        "date":"2023-09-10",
+        "AI Jobs":5,
+        "Machine Learning":36,
+        "Data Science":34,
+        "Generative AI":10
+    },
+    {
+        "date":"2023-09-17",
+        "AI Jobs":4,
+        "Machine Learning":37,
+        "Data Science":35,
+        "Generative AI":11
+    },
+    {
+        "date":"2023-09-24",
+        "AI Jobs":4,
+        "Machine Learning":37,
+        "Data Science":33,
+        "Generative AI":12
+    },
+    {
+        "date":"2023-10-01",
+        "AI Jobs":5,
+        "Machine Learning":36,
+        "Data Science":32,
+        "Generative AI":11
+    },
+    {
+        "date":"2023-10-08",
+        "AI Jobs":4,
+        "Machine Learning":37,
+        "Data Science":33,
+        "Generative AI":10
+    },
+    {
+        "date":"2023-10-15",
+        "AI Jobs":4,
+        "Machine Learning":36,
+        "Data Science":31,
+        "Generative AI":11
+    },
+    {
+        "date":"2023-10-22",
+        "AI Jobs":4,
+        "Machine Learning":34,
+        "Data Science":29,
+        "Generative AI":11
+    },
+    {
+        "date":"2023-10-29",
+        "AI Jobs":4,
+        "Machine Learning":36,
+        "Data Science":31,
+        "Generative AI":10
+    },
+    {
+        "date":"2023-11-05",
+        "AI Jobs":5,
+        "Machine Learning":35,
+        "Data Science":29,
+        "Generative AI":10
+    },
+    {
+        "date":"2023-11-12",
+        "AI Jobs":4,
+        "Machine Learning":35,
+        "Data Science":28,
+        "Generative AI":10
+    },
+    {
+        "date":"2023-11-19",
+        "AI Jobs":5,
+        "Machine Learning":37,
+        "Data Science":28,
+        "Generative AI":10
+    },
+    {
+        "date":"2023-11-26",
+        "AI Jobs":5,
+        "Machine Learning":39,
+        "Data Science":29,
+        "Generative AI":11
+    },
+    {
+        "date":"2023-12-03",
+        "AI Jobs":5,
+        "Machine Learning":39,
+        "Data Science":30,
+        "Generative AI":11
+    },
+    {
+        "date":"2023-12-10",
+        "AI Jobs":5,
+        "Machine Learning":38,
+        "Data Science":30,
+        "Generative AI":11
+    },
+    {
+        "date":"2023-12-17",
+        "AI Jobs":4,
+        "Machine Learning":35,
+        "Data Science":28,
+        "Generative AI":9
+    },
+    {
+        "date":"2023-12-24",
+        "AI Jobs":4,
+        "Machine Learning":27,
+        "Data Science":26,
+        "Generative AI":7
+    },
+    {
+        "date":"2023-12-31",
+        "AI Jobs":5,
+        "Machine Learning":33,
+        "Data Science":29,
+        "Generative AI":8
+    },
+    {
+        "date":"2024-01-07",
+        "AI Jobs":5,
+        "Machine Learning":36,
+        "Data Science":32,
+        "Generative AI":11
+    },
+    {
+        "date":"2024-01-14",
+        "AI Jobs":6,
+        "Machine Learning":34,
+        "Data Science":28,
+        "Generative AI":12
+    },
+    {
+        "date":"2024-01-21",
+        "AI Jobs":5,
+        "Machine Learning":38,
+        "Data Science":33,
+        "Generative AI":12
+    },
+    {
+        "date":"2024-01-28",
+        "AI Jobs":6,
+        "Machine Learning":41,
+        "Data Science":36,
+        "Generative AI":13
+    },
+    {
+        "date":"2024-02-04",
+        "AI Jobs":6,
+        "Machine Learning":40,
+        "Data Science":34,
+        "Generative AI":13
+    },
+    {
+        "date":"2024-02-11",
+        "AI Jobs":6,
+        "Machine Learning":39,
+        "Data Science":31,
+        "Generative AI":12
+    },
+    {
+        "date":"2024-02-18",
+        "AI Jobs":6,
+        "Machine Learning":42,
+        "Data Science":33,
+        "Generative AI":14
+    },
+    {
+        "date":"2024-02-25",
+        "AI Jobs":6,
+        "Machine Learning":43,
+        "Data Science":31,
+        "Generative AI":14
+    },
+    {
+        "date":"2024-03-03",
+        "AI Jobs":7,
+        "Machine Learning":39,
+        "Data Science":33,
+        "Generative AI":13
+    },
+    {
+        "date":"2024-03-10",
+        "AI Jobs":6,
+        "Machine Learning":39,
+        "Data Science":32,
+        "Generative AI":14
+    },
+    {
+        "date":"2024-03-17",
+        "AI Jobs":7,
+        "Machine Learning":41,
+        "Data Science":34,
+        "Generative AI":14
+    },
+    {
+        "date":"2024-03-24",
+        "AI Jobs":6,
+        "Machine Learning":38,
+        "Data Science":34,
+        "Generative AI":13
+    },
+    {
+        "date":"2024-03-31",
+        "AI Jobs":6,
+        "Machine Learning":38,
+        "Data Science":32,
+        "Generative AI":12
+    },
+    {
+        "date":"2024-04-07",
+        "AI Jobs":6,
+        "Machine Learning":37,
+        "Data Science":31,
+        "Generative AI":13
+    },
+    {
+        "date":"2024-04-14",
+        "AI Jobs":6,
+        "Machine Learning":40,
+        "Data Science":31,
+        "Generative AI":12
+    },
+    {
+        "date":"2024-04-21",
+        "AI Jobs":6,
+        "Machine Learning":40,
+        "Data Science":32,
+        "Generative AI":13
+    },
+    {
+        "date":"2024-04-28",
+        "AI Jobs":6,
+        "Machine Learning":40,
+        "Data Science":32,
+        "Generative AI":12
+    },
+    {
+        "date":"2024-05-05",
+        "AI Jobs":6,
+        "Machine Learning":39,
+        "Data Science":32,
+        "Generative AI":12
+    },
+    {
+        "date":"2024-05-12",
+        "AI Jobs":7,
+        "Machine Learning":38,
+        "Data Science":34,
+        "Generative AI":13
+    },
+    {
+        "date":"2024-05-19",
+        "AI Jobs":6,
+        "Machine Learning":40,
+        "Data Science":32,
+        "Generative AI":13
+    },
+    {
+        "date":"2024-05-26",
+        "AI Jobs":6,
+        "Machine Learning":37,
+        "Data Science":32,
+        "Generative AI":12
+    },
+    {
+        "date":"2024-06-02",
+        "AI Jobs":7,
+        "Machine Learning":36,
+        "Data Science":31,
+        "Generative AI":13
+    },
+    {
+        "date":"2024-06-09",
+        "AI Jobs":7,
+        "Machine Learning":39,
+        "Data Science":34,
+        "Generative AI":14
+    },
+    {
+        "date":"2024-06-16",
+        "AI Jobs":6,
+        "Machine Learning":36,
+        "Data Science":31,
+        "Generative AI":15
+    },
+    {
+        "date":"2024-06-23",
+        "AI Jobs":6,
+        "Machine Learning":35,
+        "Data Science":32,
+        "Generative AI":13
+    },
+    {
+        "date":"2024-06-30",
+        "AI Jobs":5,
+        "Machine Learning":35,
+        "Data Science":30,
+        "Generative AI":12
+    },
+    {
+        "date":"2024-07-07",
+        "AI Jobs":6,
+        "Machine Learning":35,
+        "Data Science":30,
+        "Generative AI":13
+    },
+    {
+        "date":"2024-07-14",
+        "AI Jobs":6,
+        "Machine Learning":34,
+        "Data Science":31,
+        "Generative AI":13
+    },
+    {
+        "date":"2024-07-21",
+        "AI Jobs":6,
+        "Machine Learning":36,
+        "Data Science":31,
+        "Generative AI":13
+    },
+    {
+        "date":"2024-07-28",
+        "AI Jobs":6,
+        "Machine Learning":33,
+        "Data Science":30,
+        "Generative AI":12
+    },
+    {
+        "date":"2024-08-04",
+        "AI Jobs":6,
+        "Machine Learning":34,
+        "Data Science":29,
+        "Generative AI":11
+    },
+    {
+        "date":"2024-08-11",
+        "AI Jobs":6,
+        "Machine Learning":34,
+        "Data Science":30,
+        "Generative AI":11
+    },
+    {
+        "date":"2024-08-18",
+        "AI Jobs":6,
+        "Machine Learning":37,
+        "Data Science":33,
+        "Generative AI":11
+    },
+    {
+        "date":"2024-08-25",
+        "AI Jobs":6,
+        "Machine Learning":34,
+        "Data Science":32,
+        "Generative AI":12
+    },
+    {
+        "date":"2024-09-01",
+        "AI Jobs":6,
+        "Machine Learning":34,
+        "Data Science":34,
+        "Generative AI":11
+    },
+    {
+        "date":"2024-09-08",
+        "AI Jobs":7,
+        "Machine Learning":37,
+        "Data Science":32,
+        "Generative AI":11
+    },
+    {
+        "date":"2024-09-15",
+        "AI Jobs":7,
+        "Machine Learning":36,
+        "Data Science":32,
+        "Generative AI":12
+    },
+    {
+        "date":"2024-09-22",
+        "AI Jobs":7,
+        "Machine Learning":38,
+        "Data Science":32,
+        "Generative AI":12
+    },
+    {
+        "date":"2024-09-29",
+        "AI Jobs":6,
+        "Machine Learning":35,
+        "Data Science":30,
+        "Generative AI":11
+    },
+    {
+        "date":"2024-10-06",
+        "AI Jobs":6,
+        "Machine Learning":37,
+        "Data Science":29,
+        "Generative AI":11
+    },
+    {
+        "date":"2024-10-13",
+        "AI Jobs":7,
+        "Machine Learning":37,
+        "Data Science":32,
+        "Generative AI":11
+    },
+    {
+        "date":"2024-10-20",
+        "AI Jobs":7,
+        "Machine Learning":39,
+        "Data Science":30,
+        "Generative AI":12
+    },
+    {
+        "date":"2024-10-27",
+        "AI Jobs":7,
+        "Machine Learning":33,
+        "Data Science":28,
+        "Generative AI":12
+    },
+    {
+        "date":"2024-11-03",
+        "AI Jobs":7,
+        "Machine Learning":37,
+        "Data Science":30,
+        "Generative AI":11
+    },
+    {
+        "date":"2024-11-10",
+        "AI Jobs":7,
+        "Machine Learning":38,
+        "Data Science":31,
+        "Generative AI":13
+    },
+    {
+        "date":"2024-11-17",
+        "AI Jobs":9,
+        "Machine Learning":41,
+        "Data Science":30,
+        "Generative AI":12
+    },
+    {
+        "date":"2024-11-24",
+        "AI Jobs":7,
+        "Machine Learning":37,
+        "Data Science":27,
+        "Generative AI":10
+    },
+    {
+        "date":"2024-12-01",
+        "AI Jobs":7,
+        "Machine Learning":38,
+        "Data Science":29,
+        "Generative AI":12
+    },
+    {
+        "date":"2024-12-08",
+        "AI Jobs":7,
+        "Machine Learning":38,
+        "Data Science":29,
+        "Generative AI":11
+    },
+    {
+        "date":"2024-12-15",
+        "AI Jobs":7,
+        "Machine Learning":37,
+        "Data Science":28,
+        "Generative AI":11
+    },
+    {
+        "date":"2024-12-22",
+        "AI Jobs":6,
+        "Machine Learning":29,
+        "Data Science":24,
+        "Generative AI":9
+    },
+    {
+        "date":"2024-12-29",
+        "AI Jobs":7,
+        "Machine Learning":29,
+        "Data Science":24,
+        "Generative AI":9
+    },
+    {
+        "date":"2025-01-05",
+        "AI Jobs":9,
+        "Machine Learning":38,
+        "Data Science":30,
+        "Generative AI":12
+    },
+    {
+        "date":"2025-01-12",
+        "AI Jobs":10,
+        "Machine Learning":35,
+        "Data Science":34,
+        "Generative AI":11
+    },
+    {
+        "date":"2025-01-19",
+        "AI Jobs":10,
+        "Machine Learning":38,
+        "Data Science":34,
+        "Generative AI":13
+    },
+    {
+        "date":"2025-01-26",
+        "AI Jobs":11,
+        "Machine Learning":38,
+        "Data Science":31,
+        "Generative AI":12
+    },
+    {
+        "date":"2025-02-02",
+        "AI Jobs":10,
+        "Machine Learning":39,
+        "Data Science":32,
+        "Generative AI":13
+    },
+    {
+        "date":"2025-02-09",
+        "AI Jobs":10,
+        "Machine Learning":38,
+        "Data Science":32,
+        "Generative AI":13
+    },
+    {
+        "date":"2025-02-16",
+        "AI Jobs":10,
+        "Machine Learning":38,
+        "Data Science":33,
+        "Generative AI":13
+    },
+    {
+        "date":"2025-02-23",
+        "AI Jobs":11,
+        "Machine Learning":39,
+        "Data Science":30,
+        "Generative AI":13
+    },
+    {
+        "date":"2025-03-02",
+        "AI Jobs":10,
+        "Machine Learning":37,
+        "Data Science":31,
+        "Generative AI":12
+    },
+    {
+        "date":"2025-03-09",
+        "AI Jobs":10,
+        "Machine Learning":36,
+        "Data Science":29,
+        "Generative AI":12
+    },
+    {
+        "date":"2025-03-16",
+        "AI Jobs":10,
+        "Machine Learning":39,
+        "Data Science":34,
+        "Generative AI":13
+    },
+    {
+        "date":"2025-03-23",
+        "AI Jobs":11,
+        "Machine Learning":37,
+        "Data Science":33,
+        "Generative AI":12
+    },
+    {
+        "date":"2025-03-30",
+        "AI Jobs":11,
+        "Machine Learning":36,
+        "Data Science":31,
+        "Generative AI":12
+    },
+    {
+        "date":"2025-04-06",
+        "AI Jobs":10,
+        "Machine Learning":37,
+        "Data Science":32,
+        "Generative AI":12
+    },
+    {
+        "date":"2025-04-13",
+        "AI Jobs":9,
+        "Machine Learning":34,
+        "Data Science":31,
+        "Generative AI":11
+    },
+    {
+        "date":"2025-04-20",
+        "AI Jobs":10,
+        "Machine Learning":35,
+        "Data Science":32,
+        "Generative AI":13
+    },
+    {
+        "date":"2025-04-27",
+        "AI Jobs":11,
+        "Machine Learning":38,
+        "Data Science":32,
+        "Generative AI":12
+    },
+    {
+        "date":"2025-05-04",
+        "AI Jobs":11,
+        "Machine Learning":37,
+        "Data Science":34,
+        "Generative AI":12
+    },
+    {
+        "date":"2025-05-11",
+        "AI Jobs":11,
+        "Machine Learning":38,
+        "Data Science":37,
+        "Generative AI":13
+    },
+    {
+        "date":"2025-05-18",
+        "AI Jobs":12,
+        "Machine Learning":37,
+        "Data Science":35,
+        "Generative AI":13
+    },
+    {
+        "date":"2025-05-25",
+        "AI Jobs":13,
+        "Machine Learning":35,
+        "Data Science":33,
+        "Generative AI":13
+    },
+    {
+        "date":"2025-06-01",
+        "AI Jobs":15,
+        "Machine Learning":39,
+        "Data Science":33,
+        "Generative AI":15
+    },
+    {
+        "date":"2025-06-08",
+        "AI Jobs":17,
+        "Machine Learning":46,
+        "Data Science":39,
+        "Generative AI":17
+    },
+    {
+        "date":"2025-06-15",
+        "AI Jobs":17,
+        "Machine Learning":43,
+        "Data Science":38,
+        "Generative AI":17
+    },
+    {
+        "date":"2025-06-22",
+        "AI Jobs":16,
+        "Machine Learning":44,
+        "Data Science":35,
+        "Generative AI":17
+    },
+    {
+        "date":"2025-06-29",
+        "AI Jobs":17,
+        "Machine Learning":41,
+        "Data Science":35,
+        "Generative AI":15
+    },
+    {
+        "date":"2025-07-06",
+        "AI Jobs":15,
+        "Machine Learning":38,
+        "Data Science":36,
+        "Generative AI":15
+    },
+    {
+        "date":"2025-07-13",
+        "AI Jobs":17,
+        "Machine Learning":41,
+        "Data Science":39,
+        "Generative AI":16
+    },
+    {
+        "date":"2025-07-20",
+        "AI Jobs":19,
+        "Machine Learning":47,
+        "Data Science":40,
+        "Generative AI":19
+    },
+    {
+        "date":"2025-07-27",
+        "AI Jobs":24,
+        "Machine Learning":53,
+        "Data Science":44,
+        "Generative AI":23
+    },
+    {
+        "date":"2025-08-03",
+        "AI Jobs":42,
+        "Machine Learning":71,
+        "Data Science":57,
+        "Generative AI":48
+    },
+    {
+        "date":"2025-08-10",
+        "AI Jobs":56,
+        "Machine Learning":100,
+        "Data Science":76,
+        "Generative AI":80
+    },
+    {
+        "date":"2025-08-17",
+        "AI Jobs":48,
+        "Machine Learning":86,
+        "Data Science":72,
+        "Generative AI":76
+    },
+    {
+        "date":"2025-08-24",
+        "AI Jobs":40,
+        "Machine Learning":78,
+        "Data Science":66,
+        "Generative AI":53
+    },
+    {
+        "date":"2025-08-31",
+        "AI Jobs":42,
+        "Machine Learning":78,
+        "Data Science":73,
+        "Generative AI":53
+    },
+    {
+        "date":"2025-09-07",
+        "AI Jobs":41,
+        "Machine Learning":77,
+        "Data Science":69,
+        "Generative AI":48
+    },
+    {
+        "date":"2025-09-14",
+        "AI Jobs":40,
+        "Machine Learning":73,
+        "Data Science":65,
+        "Generative AI":44
+    },
+    {
+        "date":"2025-09-21",
+        "AI Jobs":43,
+        "Machine Learning":79,
+        "Data Science":72,
+        "Generative AI":49
+    },
+    {
+        "date":"2025-09-28",
+        "AI Jobs":47,
+        "Machine Learning":79,
+        "Data Science":65,
+        "Generative AI":50
+    },
+    {
+        "date":"2025-10-05",
+        "AI Jobs":41,
+        "Machine Learning":70,
+        "Data Science":59,
+        "Generative AI":49
+    },
+    {
+        "date":"2025-10-12",
+        "AI Jobs":39,
+        "Machine Learning":72,
+        "Data Science":58,
+        "Generative AI":48
+    },
+    {
+        "date":"2025-10-19",
+        "AI Jobs":36,
+        "Machine Learning":78,
+        "Data Science":60,
+        "Generative AI":50
+    },
+    {
+        "date":"2025-10-26",
+        "AI Jobs":36,
+        "Machine Learning":69,
+        "Data Science":53,
+        "Generative AI":45
+    },
+    {
+        "date":"2025-11-02",
+        "AI Jobs":37,
+        "Machine Learning":76,
+        "Data Science":59,
+        "Generative AI":45
+    },
+    {
+        "date":"2025-11-09",
+        "AI Jobs":33,
+        "Machine Learning":75,
+        "Data Science":59,
+        "Generative AI":47
+    },
+    {
+        "date":"2025-11-16",
+        "AI Jobs":35,
+        "Machine Learning":90,
+        "Data Science":65,
+        "Generative AI":50
+    },
+    {
+        "date":"2025-11-23",
+        "AI Jobs":38,
+        "Machine Learning":88,
+        "Data Science":69,
+        "Generative AI":53
+    },
+    {
+        "date":"2025-11-30",
+        "AI Jobs":49,
+        "Machine Learning":93,
+        "Data Science":75,
+        "Generative AI":53
+    },
+    {
+        "date":"2025-12-07",
+        "AI Jobs":45,
+        "Machine Learning":84,
+        "Data Science":66,
+        "Generative AI":47
+    },
+    {
+        "date":"2025-12-14",
+        "AI Jobs":42,
+        "Machine Learning":87,
+        "Data Science":64,
+        "Generative AI":52
+    },
+    {
+        "date":"2025-12-21",
+        "AI Jobs":32,
+        "Machine Learning":64,
+        "Data Science":44,
+        "Generative AI":39
+    },
+    {
+        "date":"2025-12-28",
+        "AI Jobs":36,
+        "Machine Learning":61,
+        "Data Science":43,
+        "Generative AI":35
+    },
+    {
+        "date":"2026-01-04",
+        "AI Jobs":43,
+        "Machine Learning":73,
+        "Data Science":51,
+        "Generative AI":40
+    },
+    {
+        "date":"2026-01-11",
+        "AI Jobs":42,
+        "Machine Learning":82,
+        "Data Science":60,
+        "Generative AI":46
+    },
+    {
+        "date":"2026-01-18",
+        "AI Jobs":44,
+        "Machine Learning":92,
+        "Data Science":68,
+        "Generative AI":48
+    },
+    {
+        "date":"2026-01-25",
+        "AI Jobs":38,
+        "Machine Learning":82,
+        "Data Science":62,
+        "Generative AI":42
+    },
+    {
+        "date":"2026-02-01",
+        "AI Jobs":16,
+        "Machine Learning":57,
+        "Data Science":36,
+        "Generative AI":18
+    },
+    {
+        "date":"2026-02-08",
+        "AI Jobs":19,
+        "Machine Learning":87,
+        "Data Science":43,
+        "Generative AI":21
+    }
+]
